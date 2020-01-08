@@ -37,7 +37,7 @@
 		<HostEntry>
 			<HostName>vpngate.beeline.kz</HostName>
 			<HostAddress>vpngate.beeline.kz</HostAddress>
-			<UserGroup>kartel</UserGroup>
+			<UserGroup>kar-tel</UserGroup>
 		</HostEntry>
 	</ServerList>
 </AnyConnectProfile>
